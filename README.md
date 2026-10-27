@@ -1,2 +1,1 @@
 To use the Student Attendance Management System, enter your student ID to view your attendance record.
-
